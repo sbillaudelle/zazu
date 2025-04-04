@@ -1,0 +1,7 @@
+[package]
+name = "zazu"
+version = "0.0.1"
+entrypoint = "zazu.typ"
+authors = ["Sebastian Billaudelle <sebastian@ini.uzh.ch>"]
+license = "MIT"
+description = "Simple yet customizable, CeTZ-based timing diagrams."
